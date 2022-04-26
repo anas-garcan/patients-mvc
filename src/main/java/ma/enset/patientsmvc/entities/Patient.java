@@ -11,7 +11,7 @@ import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Size;
 import java.util.Date;
 @Entity
-//
+///
 @Data @AllArgsConstructor @NoArgsConstructor
 public class Patient {
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
