@@ -1,12 +1,13 @@
 # patients-mvc
 Interface home:
+![Home](https://user-images.githubusercontent.com/90096469/166075377-b3dc74ef-f7b9-4c71-b91c-c436e4e64a5f.png)
 
-<img width="900" alt="scrennhome" src="https://user-images.githubusercontent.com/79654133/165200947-30b29d63-b067-4b3a-8c79-8d809dbfcf44.png">
 Interface Login:
 
-![Capture d’écran (135)](https://user-images.githubusercontent.com/90096469/165332550-d4d084d2-0717-4067-9d76-8f7becd5897f.png)
+![login](https://user-images.githubusercontent.com/90096469/166075387-4e46cf96-92ca-4e0f-9bd6-f095da6e1e71.png)
 
 Interface Nouveau Patient:
-<img width="900" alt="NouveauPatient" src="https://user-images.githubusercontent.com/79654133/165200999-f1fd0d24-3ff8-4075-9668-64547f16e9a8.png">
+![nouveau](https://user-images.githubusercontent.com/90096469/166075405-d1c74f7c-a3e0-4956-8395-def1a86dd54f.png)
+
 Interface Chercher Patient:
-<img width="900" alt="ChercherPatient" src="https://user-images.githubusercontent.com/79654133/165201021-abf8c177-fe66-43b3-9f5f-0fff76ef7f00.png">
+![Chercher](https://user-images.githubusercontent.com/90096469/166075415-1bacabe7-41dc-47c6-be8f-0e498c45e14b.png)
